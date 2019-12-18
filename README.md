@@ -1,7 +1,7 @@
 # Arithmetic
 This C function uses string arithmetic to return the sum of (or the difference between) two numbers stored as strings.
 
-Use the provided main program and as input, provide the 2 numbers you wish to operate on as well as the desired operator.
+As input, provide the 2 numbers you wish to operate on as well as the desired operator.
 
 When the program is run, enter input in the following form:
 
